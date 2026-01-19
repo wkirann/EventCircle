@@ -67,7 +67,7 @@ Make sure you have the following installed:
 
 ---
 
-### 📥 Step 1: Clone the Repository
+### 📥  Clone the Repository
 
 Clone the project from below link and Run it on Android Studio
 ```bash
@@ -76,28 +76,27 @@ git clone https://github.com/wkirann/EventCircle.git
 
 ---
 
-🤝 How to Contribute
-Contributions are welcome! Follow these steps:
+## 🤝 How to Contribute
+**Contributions are welcome! Follow these steps:**
 
 1️⃣ Fork the Repository
+```
 Click the Fork button on GitHub.
+```
 
 2️⃣ Clone Your Fork
 ```
 git clone https://github.com/wkirann/EventCircle.git
 ```
-
 3️⃣ Create a New Branch
 ```
 git checkout -b feature/your-feature-name
 ```
-
 4️⃣ Make Changes & Commit
 ```
 git add .
 git commit -m "Add: meaningful feature description"
 ```
-
 5️⃣ Push Changes
 ```
 git push origin feature/your-feature-name
