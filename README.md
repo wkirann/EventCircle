@@ -24,14 +24,11 @@ EventCircle provides a **centralized mobile solution** for event discovery and m
 
 ## 📸 App Screenshots
 
-### 🏠 Home Screen
-![Home Screen](screenshots/home_screen.png)
-
-### ➕ Create Event Screen
-![Create Event](screenshots/create_event.png)
-
-### 📄 Start  Screen
-![Start ](screenshots/start_page.png)
+<p align="center">
+  <img src="screenshots/start_page.png" width="220" />
+  <img src="screenshots/create_event.png" width="220" />
+  <img src="screenshots/home_screen.png" width="220" />
+</p>
 
 > 📌 Note: Screenshots are provided to help users understand the UI without running the app.
 
@@ -106,18 +103,20 @@ git commit -m "Add: meaningful feature description"
 git push origin feature/your-feature-name
 ```
 
-6️⃣ Create a Pull Request
--Go to GitHub
--Click New Pull Request
--Describe your changes clearly
+### 6️⃣ Create a Pull Request
+- Go to GitHub
+- Click **New Pull Request**
+- Describe your changes clearly
 
-🧠 Contribution Guidelines
-Follow Kotlin and Android best practices
+---
 
-Keep code clean and readable
-Test your changes before submitting
-Write clear and meaningful commit messages
+## 🧠 Contribution Guidelines
+- Follow Kotlin and Android best practices
+- Keep code clean and readable
+- Test your changes before submitting
+- Write clear and meaningful commit messages
 
-👨‍💻 Author
-Kiran Wagh
-Android & Full-Stack Development Enthusiast
+---
+
+## 👨‍💻 Author
+**Kiran Wagh**  - Android & Full-Stack Development Enthusiast
