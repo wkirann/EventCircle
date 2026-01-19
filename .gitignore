@@ -1,0 +1,16 @@
+# Gradle and Android build files
+.gradle/
+build/
+app/build/
+**/build/
+
+local.properties
+*.iml
+.idea/
+captures/
+
+# Other common ignores
+*.apk
+*.aar
+*.ap_
+.DS_Store
