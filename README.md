@@ -25,9 +25,9 @@ EventCircle provides a **centralized mobile solution** for event discovery and m
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="screenshots/start_page.png" width="220" />
-  <img src="screenshots/create_event.png" width="220" />
-  <img src="screenshots/home_screen.png" width="220" />
+  <img src="screenshots/start_page.png" width="240" />
+  <img src="screenshots/create_event.png" width="205" />
+  <img src="screenshots/home_screen.png" width="205" />
 </p>
 
 > 📌 Note: Screenshots are provided to help users understand the UI without running the app.
